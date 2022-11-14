@@ -1,0 +1,3 @@
+[submodule "src/BuildingBlock"]
+	path = src/BuildingBlock
+	url = https://dev.azure.com/Dovetail-SubEaze/SubEaze-LMD/_git/pkg-buildingblock
